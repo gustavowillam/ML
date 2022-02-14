@@ -1,2 +1,2 @@
-# ML
-Disciplina Aprendizado de Máquina - Curso: Gestão da Tecnologia da Informação - IFSUDESTEMG - Campus Muriaé
+# Aprendizado de Máquina - Material das Aulas
+
