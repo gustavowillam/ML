@@ -15,12 +15,14 @@
 ### - Aprendizado Supervisionado 
 ### - Aprendizado Não-Supervisionado 
 
-## [Aula 02 - Pré-Processamento dos Dados]()
+## [Aula 02 - Pré-Processamento dos Dados](https://github.com/gustavowillam/ML/blob/main/2-Aula%2002.pdf)
 ### - Limpeza dos Dados 
 ### - Tratamento de Dados Ausentes 
 ### - Substituição de dados categóricos
 ### - Divisão do conjunto em Treinamento/Teste
 ### - Normalização e Padronização de Dados
+
+* ### [Colab - Pré-Processamento dos Dados](https://colab.research.google.com/drive/1pU4yjs-x-WnmCbQfBtNbzD3epz83oft4?usp=sharing)
 
 ## [Aula 03 - Algoritmos para Regressão]()
 ### - Regressão Linear Simples 
