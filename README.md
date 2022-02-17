@@ -16,7 +16,7 @@
 ### - Aprendizado Não-Supervisionado 
 
 ## [Aula 02 - Pré-Processamento dos Dados](https://github.com/gustavowillam/ML/blob/main/2-Aula%2002.pdf)
-### - Limpeza dos Dados 
+### - Limpeza dos Dados (Remoção de Outliers)
 ### - Tratamento de Dados Ausentes 
 ### - Substituição de dados categóricos
 ### - Divisão do conjunto em Treinamento/Teste
@@ -24,10 +24,17 @@
 
 * ### [Colab - Pré-Processamento dos Dados](https://colab.research.google.com/drive/1pU4yjs-x-WnmCbQfBtNbzD3epz83oft4?usp=sharing)
 
-## [Aula 03 - Algoritmos para Regressão]()
-### - Regressão Linear Simples 
+## [Aula 03 - Algoritmos para Regressão](https://github.com/gustavowillam/ML/blob/main/3-Aula%2003.pdf)
+### - Regressão Linear Simples
+* ### [Colab - Regressão Linear Simples com StatsModels](https://colab.research.google.com/drive/1a24JRHwqKHNn4kV9NcT2ZpsX8N90gliV?usp=sharing)
+* ### [Colab - Regressão Linear Simples com Scikit-Learn](https://colab.research.google.com/drive/1FyZYAOTedUvrukF1JYaXo7Jh3O5wlqdN?usp=sharing)
+
 ### - Regressão Linear Múltipla
+* ### [Colab - Regressão Linear Multipla](https://colab.research.google.com/drive/1xBKTphCLyPCYFFjt83SxfGK5ssvSI0zS?usp=sharing)
+
 ### - Regressão Polinomial
+* ### [Colab - Regressão Polinomial](https://colab.research.google.com/drive/125NMw54BEZ0GERIVTvzIfsmJEvSXwpa9?usp=sharing)
+
 ### - Máquina de Vetores de Suporte (Support Vector Machine - SVM)
 ### - Arvore de Decisão (Decision Tree - DT)
 ### - Floresta Aleatória (Random Forest - RF)
