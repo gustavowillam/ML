@@ -39,15 +39,19 @@
 * ### [Colab - SVR dataset Boston House Price](https://colab.research.google.com/drive/1vzWrKBr3DprnrAWYEJEDm4ukW3bHBtDI?usp=sharing)
 * ### [Colab - SVR dataset Medical Cost Personal](https://colab.research.google.com/drive/1okJFe6qS8RzdA5bwnF54NUaXj27mF26r?usp=sharing)
 
-### - [Aula 05 - Arvore de Decisão (Decision Tree - DT)]()
+### - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/5-Aula%2005.pdf)
+* ### [Colab - DT dataset Boston House Price]()
+* ### [Colab - DT dataset Medical Cost Personal]()
 
-### - Floresta Aleatória (Random Forest - RF)
+* ### [Colab - RF dataset Boston House Price]()
+* ### [Colab - RF dataset Medical Cost Personal]()
+
 ### - Otimização de Hiperparâmetros
 ### - Seleção e Avaliação de Modelos 
 * #### - Validação Cruzada (LOOCV, K-Fold)
 
 
-## [Aula 04 - Algoritmos para Classificação]()
+## [Aula 06 - Algoritmos para Classificação]()
 ### - Regressão Logistica
 ### - Naive Bayes
 ### - K-Nearest Neighbors 
@@ -61,7 +65,7 @@
 * #### - Matriz de Confusão (Acurácia, Precisão, Revocação, Curva ROC)
 
 
-## [Aula 05 - Seleção de Variáveis]()
+## [Aula 07 - Seleção de Variáveis]()
 ### - Principal Component Analysis (PCA)
 ### - Linear Discriminant Analysis (LDA)
 
