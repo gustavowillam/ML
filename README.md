@@ -35,8 +35,12 @@
 ### - Regressão Polinomial
 * ### [Colab - Regressão Polinomial](https://colab.research.google.com/drive/125NMw54BEZ0GERIVTvzIfsmJEvSXwpa9?usp=sharing)
 
-### - Máquina de Vetores de Suporte (Support Vector Machine - SVM)
-### - Arvore de Decisão (Decision Tree - DT)
+### - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/4-Aula%2004.pdf)
+* ### [Colab - SVR dataset Boston House Price](https://colab.research.google.com/drive/1vzWrKBr3DprnrAWYEJEDm4ukW3bHBtDI?usp=sharing)
+* ### [Colab - SVR dataset Medical Cost Personal](https://colab.research.google.com/drive/1okJFe6qS8RzdA5bwnF54NUaXj27mF26r?usp=sharing)
+
+### - [Aula 05 - Arvore de Decisão (Decision Tree - DT)]()
+
 ### - Floresta Aleatória (Random Forest - RF)
 ### - Otimização de Hiperparâmetros
 ### - Seleção e Avaliação de Modelos 
