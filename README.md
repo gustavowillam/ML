@@ -40,11 +40,11 @@
 * ### [Colab - SVR dataset Medical Cost Personal](https://colab.research.google.com/drive/1okJFe6qS8RzdA5bwnF54NUaXj27mF26r?usp=sharing)
 
 ### - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/5-Aula%2005.pdf)
-* ### [Colab - DT dataset Boston House Price]()
-* ### [Colab - DT dataset Medical Cost Personal]()
+* ### [Colab - DT dataset Boston House Price](https://colab.research.google.com/drive/1FeP8NqBOQRm6lHb9O_DrYVtL17j8bIFe?usp=sharing)
+* ### [Colab - DT dataset Medical Cost Personal](https://colab.research.google.com/drive/17HxcPOundk3LBYIgpv6BqD7Ey4FiIBJJ?usp=sharing)
 
-* ### [Colab - RF dataset Boston House Price]()
-* ### [Colab - RF dataset Medical Cost Personal]()
+* ### [Colab - RF dataset Boston House Price](https://colab.research.google.com/drive/1i9pbUOY7TYSQpn3EgZ9946V9V-3fJ7FZ?usp=sharing)
+* ### [Colab - RF dataset Medical Cost Personal](https://colab.research.google.com/drive/1XUcgl5JCJHyKUt7E291q_bAxQuaycNjd?usp=sharing)
 
 ### - Otimização de Hiperparâmetros
 ### - Seleção e Avaliação de Modelos 
