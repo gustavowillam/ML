@@ -46,9 +46,10 @@
 * ### [Colab - RF dataset Boston House Price](https://colab.research.google.com/drive/1i9pbUOY7TYSQpn3EgZ9946V9V-3fJ7FZ?usp=sharing)
 * ### [Colab - RF dataset Medical Cost Personal](https://colab.research.google.com/drive/1XUcgl5JCJHyKUt7E291q_bAxQuaycNjd?usp=sharing)
 
-### - Otimização de Hiperparâmetros
-### - Seleção e Avaliação de Modelos 
-* #### - Validação Cruzada (LOOCV, K-Fold)
+### - [Aula 06 - Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/6-Aula%2006.pdf)
+* ### [Colab - SVR dataset Medical Cost Personal](https://colab.research.google.com/drive/14USYLN5sbZ0Ph9lIH8KzAPG2ENCslkTP?usp=sharing)
+* ### [Colab - DT dataset Medical Cost Personal](https://colab.research.google.com/drive/1cRIXnSfdHM0bSBSc9vNnSrX_clQ6J5zW?usp=sharing)
+* ### [Colab - RF dataset Medical Cost Personal](https://colab.research.google.com/drive/12IoCc07VBj68KgUU6jnMm_iHQE3_Z8wQ?usp=sharing)
 
 
 ## [Aula 06 - Algoritmos para Classificação]()
