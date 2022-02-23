@@ -52,21 +52,26 @@
 * ### [Colab - RF dataset Medical Cost Personal](https://colab.research.google.com/drive/12IoCc07VBj68KgUU6jnMm_iHQE3_Z8wQ?usp=sharing)
 
 
-## [Aula 06 - Algoritmos para Classificação]()
-### - Regressão Logistica
-### - Naive Bayes
-### - K-Nearest Neighbors 
-### - K-Means (Classificação Não-Supervisionada)
+## Aula 07 - Algoritmos para Classificação
+* #### - Matriz de Confusão (Acurácia, Precisão, Revocação, Curva ROC)
+### - [Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/7-Aula%2007.pdf)
+* ### [Colab - RL dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
+
+### - K-Nearest Neighbors (K-NN) 
 ### - Máquina de Vetores de Suporte (Support Vector Machine - SVM)
 ### - Arvore de Decisão (Decision Tree - DT)
 ### - Floresta Aleatória (Random Forest - RF)
-### - Otimização de Hiperparâmetros
-### - Seleção e Avaliação de Modelos
-* #### - Validação Cruzada (LOOCV, K-Fold)
-* #### - Matriz de Confusão (Acurácia, Precisão, Revocação, Curva ROC)
+### - Naive Bayes
 
 
-## [Aula 07 - Seleção de Variáveis]()
+### - Aula 08 - Otimização de Hiperparâmetros e Validação Cruzada
+
+
+## Aula 09 - Classificação Não-Supervisionada
+### - K-Means 
+
+
+## Aula 10 - Seleção de Variáveis
 ### - Principal Component Analysis (PCA)
 ### - Linear Discriminant Analysis (LDA)
 
