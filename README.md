@@ -57,11 +57,17 @@
 ### - [Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/7-Aula%2007.pdf)
 * ### [Colab - RL dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
 
-### - K-Nearest Neighbors (K-NN) 
-### - Máquina de Vetores de Suporte (Support Vector Machine - SVM)
-### - Arvore de Decisão (Decision Tree - DT)
-### - Floresta Aleatória (Random Forest - RF)
+### - K-Nearest Neighbors (K-NN)(https://github.com/gustavowillam/ML/blob/main/8-Aula%2008.pdf) 
+* ### [Colab - K-NN dataset Framingham](https://colab.research.google.com/drive/1WYDu-ADVS8O1NOnBW7IODY3iKB20VorL?usp=sharing)
+
 ### - Naive Bayes
+* ### [Colab - NB dataset Framingham](https://colab.research.google.com/drive/1V02vRQXJB0AUCMaNbBWYlXVDoLsrTSDp?usp=sharing)
+
+### - Máquina de Vetores de Suporte (Support Vector Machine - SVM)
+
+### - Arvore de Decisão (Decision Tree - DT)
+
+### - Floresta Aleatória (Random Forest - RF)
 
 
 ### - Aula 08 - Otimização de Hiperparâmetros e Validação Cruzada
