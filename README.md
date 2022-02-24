@@ -52,25 +52,29 @@
 * ### [Colab - RF dataset Medical Cost Personal](https://colab.research.google.com/drive/12IoCc07VBj68KgUU6jnMm_iHQE3_Z8wQ?usp=sharing)
 
 
-## Aula 07 - Algoritmos para Classificação
-* #### - Matriz de Confusão (Acurácia, Precisão, Revocação, Curva ROC)
-### - [Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/7-Aula%2007.pdf)
+## - Algoritmos para Classificação
+
+### - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/7-Aula%2007.pdf)
 * ### [Colab - RL dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
 
-### - K-Nearest Neighbors (K-NN)(https://github.com/gustavowillam/ML/blob/main/8-Aula%2008.pdf) 
+### - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/8-Aula%2008.pdf) 
 * ### [Colab - K-NN dataset Framingham](https://colab.research.google.com/drive/1WYDu-ADVS8O1NOnBW7IODY3iKB20VorL?usp=sharing)
 
-### - Naive Bayes
+### - [Aula 09 - Naive Bayes](https://github.com/gustavowillam/ML/blob/main/9-Aula%2009.pdf)
 * ### [Colab - NB dataset Framingham](https://colab.research.google.com/drive/1V02vRQXJB0AUCMaNbBWYlXVDoLsrTSDp?usp=sharing)
 
-### - Máquina de Vetores de Suporte (Support Vector Machine - SVM)
+### - [Aula 10 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/10-Aula%2010.pdf)
+* ### [Colab - SVC dataset Framingham](https://colab.research.google.com/drive/1AlSzJ9nkhoQjMLtKwd_Gkg3LvRKrpj4S?usp=sharing)
 
 ### - Arvore de Decisão (Decision Tree - DT)
+* ### [Colab - DT dataset Framingham](https://colab.research.google.com/drive/16_Q71e5JwHaIgeNgNcDg0Vf748sjURyv?usp=sharing)
 
 ### - Floresta Aleatória (Random Forest - RF)
+* ### [Colab - RF dataset Framingham](https://colab.research.google.com/drive/1MVmgp0Urm8eNoV5jtRQN7y2lemtMKsQ7?usp=sharing)
 
 
-### - Aula 08 - Otimização de Hiperparâmetros e Validação Cruzada
+### - [Aula 11 - Avaliação e Seleção de Modelos](https://github.com/gustavowillam/ML/blob/main/11-Aula%2011.pdf)
+* ### [Colab - Avaliação e Seleção de Modelos dataset Framingham]()
 
 
 ## Aula 09 - Classificação Não-Supervisionada
@@ -80,15 +84,3 @@
 ## Aula 10 - Seleção de Variáveis
 ### - Principal Component Analysis (PCA)
 ### - Linear Discriminant Analysis (LDA)
-
-
-
-
-
-
-
-
-
-
-
-
