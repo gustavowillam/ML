@@ -74,7 +74,7 @@
 
 
 ### - [Aula 11 - Avaliação e Seleção de Modelos](https://github.com/gustavowillam/ML/blob/main/11-Aula%2011.pdf)
-* ### [Colab - Avaliação e Seleção de Modelos dataset Framingham]()
+* ### [Colab - Avaliação e Seleção de Modelos dataset Framingham](https://colab.research.google.com/drive/14kWw_1_zOJ-1abEwxhmlTB_lNXUFlrlV?usp=sharing)
 
 
 ## Aula 09 - Classificação Não-Supervisionada
