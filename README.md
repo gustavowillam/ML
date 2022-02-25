@@ -77,10 +77,11 @@
 * ### [Colab - Avaliação e Seleção de Modelos dataset Framingham](https://colab.research.google.com/drive/14kWw_1_zOJ-1abEwxhmlTB_lNXUFlrlV?usp=sharing)
 
 
-## Aula 09 - Classificação Não-Supervisionada
-### - K-Means 
+### - [Aula 12 - Classificação Não-Supervisionada](https://github.com/gustavowillam/ML/blob/main/12-Aula%2012.pdf)
+* ### [Colab - K-Means dataset Countryclusters](https://colab.research.google.com/drive/1K0KkqfPTjxt-_4N940Jlnj9bYDxk8-wV?usp=sharing)
+* ### [Colab - K-Means dataset Flor de Iris](https://colab.research.google.com/drive/1JDBbQGdf95Z0zQ1dodF9NLn3NU4Wyfnp?usp=sharing)
 
 
-## Aula 10 - Seleção de Variáveis
+## Aula 13 - Seleção de Variáveis
 ### - Principal Component Analysis (PCA)
 ### - Linear Discriminant Analysis (LDA)
