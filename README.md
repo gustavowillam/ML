@@ -82,6 +82,8 @@
 * ### [Colab - K-Means dataset Flor de Iris](https://colab.research.google.com/drive/1JDBbQGdf95Z0zQ1dodF9NLn3NU4Wyfnp?usp=sharing)
 
 
-## Aula 13 - Seleção de Variáveis
-### - Principal Component Analysis (PCA)
-### - Linear Discriminant Analysis (LDA)
+### - [Aula 13 - Redução de Dimensionalidade](https://github.com/gustavowillam/ML/blob/main/13-Aula%2013.pdf)
+* ### [Colab - Principal Component Analysis (PCA)](https://colab.research.google.com/drive/1GovyNZqiIc7qTivEARF8LDp3McgbE526?usp=sharing)
+* ### [Colab - Linear Discriminant Analysis (LDA)](https://colab.research.google.com/drive/1GwjkTv3yeIKn-pXKYYSYhwr5Y5-pXRe3?usp=sharing)
+
+## Aula 14 - Seleção de Variáveis
