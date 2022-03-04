@@ -86,4 +86,5 @@
 * ### [Colab - Principal Component Analysis (PCA)](https://colab.research.google.com/drive/1GovyNZqiIc7qTivEARF8LDp3McgbE526?usp=sharing)
 * ### [Colab - Linear Discriminant Analysis (LDA)](https://colab.research.google.com/drive/1GwjkTv3yeIKn-pXKYYSYhwr5Y5-pXRe3?usp=sharing)
 
-## Aula 14 - Seleção de Variáveis
+### - [Aula 15 - Seleção de Variáveis](https://github.com/gustavowillam/ML/blob/main/15-Aula%2015.pdf)
+* ### [Colab - Selected Features using SKLearn dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
