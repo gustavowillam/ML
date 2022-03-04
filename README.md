@@ -88,3 +88,9 @@
 
 ### - [Aula 15 - Seleção de Variáveis](https://github.com/gustavowillam/ML/blob/main/15-Aula%2015.pdf)
 * ### [Colab - Selected Features using SKLearn dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
+
+### - [Aula 16 - DataPipeline com Python]()
+
+### - [Aula 17 - PyCaret com Python]()
+
+
