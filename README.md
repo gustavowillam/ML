@@ -87,7 +87,7 @@
 * ### [Colab - Linear Discriminant Analysis (LDA)](https://colab.research.google.com/drive/1GwjkTv3yeIKn-pXKYYSYhwr5Y5-pXRe3?usp=sharing)
 
 ### - [Aula 15 - Seleção de Variáveis](https://github.com/gustavowillam/ML/blob/main/15-Aula%2015.pdf)
-* ### [Colab - Selected Features using SKLearn dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
+* ### [Colab - Selected Features using Scikit-Learn dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
 
 ### - [Aula 16 - DataPipeline com Python]()
 
