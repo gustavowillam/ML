@@ -1,4 +1,4 @@
-# Dataset BreastCancerWisconsin
+# Dataset Breast Cancer Wisconsin
 
 As características são computadas a partir de uma imagem digitalizada de um aspirado por agulha fina (PAAF) de uma massa mamária. Eles descrevem características dos núcleos celulares presentes na imagem. Algumas das imagens podem ser encontradas em http://www.cs.wisc.edu/~street/images/
 
@@ -39,3 +39,49 @@ Distribuição de classes: 357 benignos, 212 malignos
 
 Y - Variável de previsão (Diagnostico)
 • Diagnostico: Maligno (M) ou Benigno (B) (binário: "1", significa "Maligno", "0" significa "Benigno")
+
+a) Creators: 
+
+	Dr. William H. Wolberg, General Surgery Dept., University of
+	Wisconsin,  Clinical Sciences Center, Madison, WI 53792
+	wolberg@eagle.surgery.wisc.edu
+
+	W. Nick Street, Computer Sciences Dept., University of
+	Wisconsin, 1210 West Dayton St., Madison, WI 53706
+	street@cs.wisc.edu  608-262-6619
+
+	Olvi L. Mangasarian, Computer Sciences Dept., University of
+	Wisconsin, 1210 West Dayton St., Madison, WI 53706
+	olvi@cs.wisc.edu 
+
+# Dataset Country Clusters
+
+Dataset utilizado para Aprendizado Não-Supervisionado
+
+Atributos:
+
+-Country
+
+-Latitude
+
+-Longitude
+
+-Language
+
+# Dataset Dados Compra
+
+Dataset utilizado para demonstrar EDA e Pré-processamento
+
+Atributos: 
+
+-Pais
+
+-Idade
+
+-Salario
+
+-Compra
+
+
+
+
