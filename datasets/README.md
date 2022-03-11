@@ -89,6 +89,7 @@ Atributos:
 Fonte: https://www.kaggle.com/navink25/framingham
 
 Descrição do Dataset 
+
 A Organização Mundial da Saúde estimou que 12 milhões de mortes ocorrem em todo o mundo, todos os anos, devido a doenças cardíacas. Metade das mortes nos Estados Unidos e em outros países desenvolvidos são devidas a doenças cardiovasculares. O prognóstico precoce de doenças cardiovasculares pode auxiliar na tomada de decisões sobre mudanças de estilo de vida em pacientes de alto risco e, por sua vez, reduzir as complicações. Esta pesquisa pretende identificar os fatores de risco mais relevantes de doenças cardíacas, bem como prever o risco geral usando regressão logística
 O conjunto de dados está disponível publicamente no site Kaggle e é de um estudo cardiovascular em andamento em moradores da cidade de Framingham, Massachusetts. O objetivo da classificação é prever se o paciente tem risco de contrair doença coronariana futura (DCF). O conjunto de dados fornece as informações dos pacientes. Inclui mais de 4.000 registros e 15 atributos.
 
@@ -170,11 +171,11 @@ Atributos:
 Variável Y: MEDV - Valor médio das casas ocupadas pelos proprietários em $ 1.000 
 
 
-# Dataset: Insurance - Medical Cost Personal Datasets 
+# Dataset: Insurance - Medical Cost Personal 
 
 Fonte: https://www.kaggle.com/mirichoi0218/insurance/version/1)
 
-Atributos
+Atributos:
 
 age: idade do beneficiário principal
 
@@ -188,10 +189,12 @@ smoker: Fumante (Yes/No)
 
 region: a área residencial do beneficiário nos EUA, nordeste, sudeste, sudoeste, noroeste.
 
-charges: custos médicos individuais faturados pelo seguro de saúde
+Variável Y: charges - custos médicos individuais faturados pelo seguro de saúde
 
 
-#Dataset: Insurance_claims  (https://www.kaggle.com/roshansharma/insurance-claim)
+# Dataset: Insurance_claims 
+
+Fonte: https://www.kaggle.com/roshansharma/insurance-claim
 
 Descrição do Dataset https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4954928053318020/1058911316420443/167703932442645/latest.html
 
@@ -231,7 +234,7 @@ poutcome
 job           
 education     
 
-Y:  response  (Sim/Nao) - Usuário faria uma campanha de Marketing (sim ou não)      
+Variável Y:  response  (Sim/Nao) - Usuário faria uma campanha de Marketing (sim ou não)      
  
 # Dataset Position Salaries 
 
@@ -243,7 +246,7 @@ Position
 
 Level
 
-Y: Salary 
+Variável Y: Salary 
 
 
 
