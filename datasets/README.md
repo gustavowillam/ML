@@ -1,4 +1,6 @@
-# Dataset Breast Cancer Wisconsin (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+# Dataset Breast Cancer Wisconsin 
+
+Fonte: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 As características são computadas a partir de uma imagem digitalizada de um aspirado por agulha fina (PAAF) de uma massa mamária. Eles descrevem características dos núcleos celulares presentes na imagem. Algumas das imagens podem ser encontradas em http://www.cs.wisc.edu/~street/images/
 
@@ -82,7 +84,9 @@ Atributos:
 
 -Compra
 
-# Dataset Framingham (https://www.kaggle.com/navink25/framingham)
+# Dataset Framingham 
+
+Fonte: https://www.kaggle.com/navink25/framingham
 
 Descrição do Dataset 
 A Organização Mundial da Saúde estimou que 12 milhões de mortes ocorrem em todo o mundo, todos os anos, devido a doenças cardíacas. Metade das mortes nos Estados Unidos e em outros países desenvolvidos são devidas a doenças cardiovasculares. O prognóstico precoce de doenças cardiovasculares pode auxiliar na tomada de decisões sobre mudanças de estilo de vida em pacientes de alto risco e, por sua vez, reduzir as complicações. Esta pesquisa pretende identificar os fatores de risco mais relevantes de doenças cardíacas, bem como prever o risco geral usando regressão logística
@@ -166,7 +170,9 @@ Atributos:
 Variável Y: MEDV - Valor médio das casas ocupadas pelos proprietários em $ 1.000 
 
 
-# Dataset: Insurance (Medical Cost Personal Datasets - https://www.kaggle.com/mirichoi0218/insurance/version/1)
+# Dataset: Insurance - Medical Cost Personal Datasets 
+
+Fonte: https://www.kaggle.com/mirichoi0218/insurance/version/1)
 
 Atributos
 
@@ -198,7 +204,9 @@ A fraude de seguros é um grande problema na indústria.
 A IHS está em uma posição única para ajudar o setor de Seguro Automóvel com esse problema.
 
 
-# Dataset: Marketing_Analysis  (https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14)
+# Dataset: Marketing_Analysis 
+
+Fonte: https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
 
 Dataset utilizado para EDA e Pré-Processamento de Dados 
 
