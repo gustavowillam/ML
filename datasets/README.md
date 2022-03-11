@@ -1,4 +1,4 @@
-# Dataset Breast Cancer Wisconsin
+# Dataset Breast Cancer Wisconsin (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 As características são computadas a partir de uma imagem digitalizada de um aspirado por agulha fina (PAAF) de uma massa mamária. Eles descrevem características dos núcleos celulares presentes na imagem. Algumas das imagens podem ser encontradas em http://www.cs.wisc.edu/~street/images/
 
@@ -81,6 +81,163 @@ Atributos:
 -Salario
 
 -Compra
+
+# Dataset Framingham (https://www.kaggle.com/navink25/framingham)
+
+Descrição do Dataset 
+A Organização Mundial da Saúde estimou que 12 milhões de mortes ocorrem em todo o mundo, todos os anos, devido a doenças cardíacas. Metade das mortes nos Estados Unidos e em outros países desenvolvidos são devidas a doenças cardiovasculares. O prognóstico precoce de doenças cardiovasculares pode auxiliar na tomada de decisões sobre mudanças de estilo de vida em pacientes de alto risco e, por sua vez, reduzir as complicações. Esta pesquisa pretende identificar os fatores de risco mais relevantes de doenças cardíacas, bem como prever o risco geral usando regressão logística
+O conjunto de dados está disponível publicamente no site Kaggle e é de um estudo cardiovascular em andamento em moradores da cidade de Framingham, Massachusetts. O objetivo da classificação é prever se o paciente tem risco de contrair doença coronariana futura (DCF). O conjunto de dados fornece as informações dos pacientes. Inclui mais de 4.000 registros e 15 atributos.
+
+Variáveis
+
+Cada atributo é um fator de risco potencial. Existem fatores de risco demográficos, comportamentais e médicos.
+
+a)	Demográfico:
+
+•	Sexo: masculino ou feminino (Nominal)
+
+•	Idade: Idade do paciente;(Contínuo - Embora as idades registradas tenham sido truncadas para números inteiros, o conceito de idade é contínuo)
+
+•	Educacao: Grau de Instrução da pessoa. 
+
+b)	Comportamental
+
+•	Fumante atual: se o paciente é fumante atual ou não (Nominal)
+
+•	Cigarros por dia: o número de cigarros que a pessoa fumou em média em um dia. (pode ser considerado contínuo, pois pode-se fumar qualquer número de cigarros, até meio cigarro.)
+
+c)	Histórico médico
+
+•	BP Meds: se o paciente estava ou não sob medicação para pressão arterial (Nominal)
+
+•	AVC Prevalente: se o paciente já teve ou não um AVC (Nominal)
+
+•	Hip predominante: se o paciente era ou não hipertenso (Nominal)
+
+•	Diabetes: se o paciente tinha ou não diabetes (Nominal)
+
+d)	Médico (atual)
+
+•	Tot_Col: nível de colesterol total (Contínuo)
+
+•	Sys_BP: pressão arterial sistólica (contínua)
+
+•	Dia_BP: pressão arterial diastólica (Contínua)
+
+•	IMC: Índice de Massa Corporal (Contínuo)
+
+•	Freq_Cardiaca: frequência cardíaca (Contínua - Na pesquisa médica, variáveis como a frequência cardíaca, embora de fato discretas, são consideradas contínuas devido ao grande número de valores possíveis.)
+
+•	Glicose: nível de glicose (Contínuo)
+
+Y - Variável de previsão (alvo desejado) 
+
+• DCF: Risco de doença cardíaca coronária CHD (binário: "1", significa "Sim", "0" significa "Não")
+
+
+# DataSet HousingData (Boston house prices dataset)
+
+Atributos: 
+
+• CRIM - taxa de criminalidade per capita por cidade
+
+• ZN - proporção de terrenos residenciais zoneados para lotes acima de 25.000 m²
+
+• INDUS - proporção de acres de negócios não varejistas por cidade.
+
+• NOX - concentração de óxidos nítricos (partes por 10 milhões)
+
+• RM - número médio de cômodos por domicílio
+
+• IDADE - proporção de unidades ocupadas pelos proprietários construídas antes de 1940
+
+• DIS - distâncias ponderadas para cinco centros de emprego de Boston
+
+• RAD - índice de acessibilidade às rodovias radiais
+
+• IMPOSTO - taxa de imposto de propriedade de valor total por $ 10.000
+
+• PTRATIO - relação aluno-professor por cidade
+
+• B - 1000(Bk - 0,63)^2 onde Bk é a proporção de negros por cidade
+
+• LSTAT - % menor status da população
+
+Variável Y: MEDV - Valor médio das casas ocupadas pelos proprietários em $ 1.000 
+
+
+# Dataset: Insurance (Medical Cost Personal Datasets - https://www.kaggle.com/mirichoi0218/insurance/version/1)
+
+Atributos
+
+age: idade do beneficiário principal
+
+sex: sexo do contratante do seguro, feminino, masculino
+
+bmi: índice de massa corporal,
+
+children: Número de filhos cobertos pelo seguro saúde / Número de dependentes
+
+smoker: Fumante (Yes/No)
+
+region: a área residencial do beneficiário nos EUA, nordeste, sudeste, sudoeste, noroeste.
+
+charges: custos médicos individuais faturados pelo seguro de saúde
+
+
+#Dataset: Insurance_claims  (https://www.kaggle.com/roshansharma/insurance-claim)
+
+Descrição do Dataset https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4954928053318020/1058911316420443/167703932442645/latest.html
+
+Reclamações de Seguros - Detecção de Fraude Caso de negócio:
+
+A fraude de seguros é um grande problema na indústria.
+
+É difícil identificar alegações de fraude.
+
+A IHS está em uma posição única para ajudar o setor de Seguro Automóvel com esse problema.
+
+
+# Dataset: Marketing_Analysis  (https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14)
+
+Dataset utilizado para EDA e Pré-Processamento de Dados 
+
+Atributos: 
+
+age
+salary
+balance       
+marital       
+targeted      
+default       
+housing       
+loan          
+contact       
+day           
+month        
+duration      
+campaign      
+pdays         
+previous      
+poutcome      
+job           
+education     
+
+Y:  response  (Sim/Nao) - Usuário faria uma campanha de Marketing (sim ou não)      
+ 
+# Dataset Position Salaries 
+
+Dataset utilizado para Regressão Polinomial
+
+Atributos: 
+
+Position
+
+Level
+
+Y: Salary 
+
+
 
 
 
