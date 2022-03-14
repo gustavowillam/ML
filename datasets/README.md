@@ -312,6 +312,22 @@ TotalCharges - o valor total que o cliente pagou pelos serviços durante todo o 
 
 Variável Y: Churn - se houve churn (Sim ou Não)
 
+# Dataset: Advertising_Train and Advertising_Test
+
+Realizar a previsão de vendas com base nos valores investidos em propagandas em: TV, Radio e Jornal
+
+Atributos 
+
+TV : Invetimento em propaganda na Televisão. 
+
+Radio :  Invetimento em propaganda na Radio. 
+
+Jornal: Invetimento em propaganda no Jornal. 
+
+Variável Y:  Previsão de Vendas 
+
+
+
 
 
 
