@@ -142,6 +142,8 @@ Y - Variável de previsão (alvo desejado)
 
 # DataSet HousingData (Boston house prices dataset)
 
+Fonte: https://www.kaggle.com/prasadperera/the-boston-housing-dataset
+
 Atributos: 
 
 • CRIM - taxa de criminalidade per capita por cidade
@@ -248,7 +250,67 @@ Level
 
 Variável Y: Salary 
 
+#Dataset: Telecom Users 
 
+Fonte: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
+
+Descrição do Dataset
+
+Qualquer negócio quer maximizar o número de clientes. Para atingir esse objetivo, é importante não apenas tentar atrair novos, mas também reter os já existentes. Reter um cliente custará à empresa menos do que atrair um novo. Além disso, um novo cliente pode estar pouco interessado em serviços de negócios e será difícil trabalhar com ele, enquanto clientes antigos já possuem os dados necessários sobre a interação com o serviço.
+
+Assim, prevendo o churn, podemos reagir a tempo e tentar manter o cliente que quer sair. Com base nos dados sobre os serviços que o cliente utiliza, podemos fazer-lhe uma oferta especial, tentando alterar a sua decisão de sair da operadora. Isso tornará a tarefa de retenção mais fácil de implementar do que a tarefa de atrair novos usuários, sobre a qual ainda não sabemos nada.
+
+Você recebe um conjunto de dados de uma empresa de telecomunicações. Os dados contêm informações sobre quase seis mil usuários, suas características demográficas, os serviços que utilizam, o tempo de uso dos serviços da operadora, a forma de pagamento e o valor do pagamento.
+
+A tarefa é analisar os dados e prever o churn de usuários (para identificar as pessoas que vão ou não renovar o contrato). O trabalho deve incluir os seguintes itens obrigatórios:
+
+Descrição dos dados (com cálculo das estatísticas básicas);
+Pesquisa de dependências e formulação de hipóteses;
+Construção de modelos de previsão de saída (com justificação para a escolha de um determinado modelo) com base em hipóteses testadas e relações identificadas;
+Comparação da qualidade dos modelos obtidos.
+
+
+Atributos: 
+
+customerID - ID do cliente
+
+gender - sexo do cliente (masculino/feminino)
+
+SeniorCitizen - o cliente está aposentado (1, 0)
+
+Partner - o cliente é casado (Sim, Não)
+
+tenure - há quantos meses uma pessoa é cliente da empresa
+
+PhoneService - o serviço telefônico está conectado (Sim, Não)
+
+MultipleLines - são várias linhas telefônicas conectadas (Sim, Não, Sem serviço telefônico)
+
+InternetService - provedor de serviços de Internet do cliente (DSL, Fibra óptica, Não)
+
+OnlineSecurity - o serviço de segurança online está conectado (Sim, Não, Sem serviço de internet)
+
+OnlineBackup - o serviço de backup online está ativado (Sim, Não, Sem serviço de internet)
+
+DeviceProtection - o cliente tem seguro do equipamento (Sim, Não, Sem serviço de internet)
+
+TechSupport - o serviço de suporte técnico está conectado (Sim, Não, Sem serviço de internet)
+
+StreamingTV - o serviço de streaming de TV está conectado (Sim, Não, Sem serviço de internet)
+
+StreamingMovies - o serviço de streaming de cinema está ativado (Sim, Não, Sem serviço de internet)
+
+Contract - tipo de contrato do cliente (Mês a mês, Um ano, Dois anos)
+
+PaperlessBilling - se o cliente usa faturamento sem papel (Sim, Não)
+
+PaymentMethod - método de pagamento (cheque eletrônico, cheque enviado, transferência bancária (automática), cartão de crédito (automático))
+
+MonthlyCharges - pagamento mensal atual
+
+TotalCharges - o valor total que o cliente pagou pelos serviços durante todo o tempo
+
+Variável Y: Churn - se houve churn (Sim ou Não)
 
 
 
