@@ -250,7 +250,7 @@ Level
 
 Variável Y: Salary 
 
-#Dataset: Telecom Users 
+# Dataset: Telecom Users 
 
 Fonte: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
