@@ -10,8 +10,7 @@
 ## - [Aula 01 - Revisão Python: Biblioteca Pandas](https://github.com/gustavowillam/AEDI/blob/main/slides/09-AEDI-Pandas.pdf)
 
 * ### [Colab - Biblioteca Pandas - Parte I](https://colab.research.google.com/drive/1ulibdhhPVKxwgJUeoVcxQGKi1fbtXQlJ?usp=sharing)
-* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1efB2DDEqZkrDaZdGeGac5icbre4rRd8R?usp=sharing)
-* ### [Colab - Biblioteca Pandas - Parte III](https://colab.research.google.com/drive/103lCddny1Z73YcEDqLGFuAQS_NBzLolf?usp=sharing)
+* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/103lCddny1Z73YcEDqLGFuAQS_NBzLolf?usp=sharing)
 
 ## - [Aula 02 - Análise Exploratória de Dados (EDA)]
                                            
