@@ -328,6 +328,8 @@ Variável Y:  Previsão de Vendas
 
 # Dataset: Bike_share
 
+Fonte: https://jupyterlite.anaconda.cloud/b0df9a1c-3954-4c78-96e6-07ab473bea1a/files/bikeshare.csv
+
 Conjunto de dados de uma empresa de compartilhamento de bicicletas de Pittsburgh e mostra a forte correlação entre a temperatura máxima e o número de passeios realizados em um determinado dia.
 
 O conjunto de dados contém outras variáveis, como mês ou feriado, portanto, sinta-se à vontade para explorar mais os dados!
