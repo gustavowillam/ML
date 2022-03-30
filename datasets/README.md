@@ -326,6 +326,29 @@ Jornal: Invetimento em propaganda no Jornal.
 
 Variável Y:  Previsão de Vendas 
 
+# Dataset: Bike_share
+
+Conjunto de dados de uma empresa de compartilhamento de bicicletas de Pittsburgh e mostra a forte correlação entre a temperatura máxima e o número de passeios realizados em um determinado dia.
+
+O conjunto de dados contém outras variáveis, como mês ou feriado, portanto, sinta-se à vontade para explorar mais os dados!
+
+Atributos 
+
+Date : Dia do compartilhamento a bicicleta. 
+
+Max Temp :  Temperatura Máxima no dia. 
+
+Month: Mês do compartilhamento da bicicleta. 
+
+Holiday: Indica se foi feriado no dia (0: No / 1: Yes)
+
+Weekend: Indica se foi em um final de semana no dia (0: No / 1: Yes)
+
+home_game: Indica se houve algum jogo em casa no dia (0: No / 1: Yes)
+
+Variável Y:  n_rides (numero de voltas dadas). 
+
+
 
 
 
