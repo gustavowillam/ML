@@ -13,7 +13,10 @@
 * ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/103lCddny1Z73YcEDqLGFuAQS_NBzLolf?usp=sharing)
 
 ## - [Aula 02 - Análise Exploratória de Dados (EDA)]
-                                           
+
+* ### [Colab - EDA-1](https://colab.research.google.com/drive/1pU4yjs-x-WnmCbQfBtNbzD3epz83oft4?usp=sharing)
+     
+     
 ## - Algoritmos para Regressão
 
 ## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial]
