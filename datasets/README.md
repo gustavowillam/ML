@@ -223,19 +223,19 @@ Atributos:
 
 • marital (estado civil)       
 
-• targeted (algo) 
+• targeted: determinado cliente antes de segmentado ou não
 
 • default (yes/no)   
 
 • housing  (yes/no)     
 
-• loan  (empréstimo)           
+• loan  Tipos de empréstimo: empréstimos ou empréstimos para habitação        
 
 • contact  (contato)       
 
 • day      (dia)     
 
-• month    (mês)      
+• month    mês de contato
 
 • duration (duração)     
 
@@ -245,13 +245,13 @@ Atributos:
 
 • previous (anterior)     
 
-• poutcome (status campanhas anteriores)
+• poutcome: resultado do contato anterior
 
 • job      (trabalho)      
 
 • education (grau de instrução)     
 
-Variável Y:  response  (Sim/Nao) - Usuário faria uma campanha de Marketing (sim ou não)      
+Variável Y:  response  (Sim/Nao) - Resposta do cliente após a chamada - Usuário faria uma campanha de Marketing (sim ou não)      
  
 # Dataset Position Salaries 
 
