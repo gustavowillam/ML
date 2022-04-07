@@ -211,30 +211,45 @@ A IHS está em uma posição única para ajudar o setor de Seguro Automóvel com
 
 # Dataset: Marketing_Analysis 
 
-Fonte: https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
-
 Dataset utilizado para EDA e Pré-Processamento de Dados 
 
 Atributos: 
 
-age
-salary
-balance       
-marital       
-targeted      
-default       
-housing       
-loan          
-contact       
-day           
-month        
-duration      
-campaign      
-pdays         
-previous      
-poutcome      
-job           
-education     
+• age  (idade)
+
+• salary (salário) 
+
+• balance (saldo)        
+
+• marital (estado civil)       
+
+• targeted (algo) 
+
+• default (yes/no)   
+
+• housing  (yes/no)     
+
+• loan  (empréstimo)           
+
+• contact  (contato)       
+
+• day      (dia)     
+
+• month    (mês)      
+
+• duration (duração)     
+
+• campaign (campanha)     
+
+• pdays    (total de dias da campanha)     
+
+• previous (anterior)     
+
+• poutcome (status campanhas anteriores)
+
+• job      (trabalho)      
+
+• education (grau de instrução)     
 
 Variável Y:  response  (Sim/Nao) - Usuário faria uma campanha de Marketing (sim ou não)      
  
