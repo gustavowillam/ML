@@ -12,11 +12,11 @@
 * ### [Colab - Biblioteca Pandas - Parte I](https://colab.research.google.com/drive/1ulibdhhPVKxwgJUeoVcxQGKi1fbtXQlJ?usp=sharing)
 * ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/103lCddny1Z73YcEDqLGFuAQS_NBzLolf?usp=sharing)
 
-## - [Aula 02 - Análise Exploratória de Dados (EDA)]
+## - [Aula 02 - Análise Exploratória de Dados (EDA)](https://github.com/gustavowillam/ML/blob/main/slides/02-ML-Analise%20Exploratoria%20de%20Dados.pdf)
 
-* ### [Colab - EDA-1](https://colab.research.google.com/drive/1pU4yjs-x-WnmCbQfBtNbzD3epz83oft4?usp=sharing)
-     
-     
+* ### [Colab - EDA - dataset Dados_Compra](https://colab.research.google.com/drive/1pU4yjs-x-WnmCbQfBtNbzD3epz83oft4?usp=sharing)
+* ### [Colab - EDA - dataset Marketing Analysis](https://colab.research.google.com/drive/1L2Db_C3oDaE42e9U1BM3NdKZbH68Ln1i?usp=sharing)
+       
 ## - Algoritmos para Regressão
 
 ## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial]
