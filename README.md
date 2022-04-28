@@ -23,8 +23,9 @@
 
 * ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1a24JRHwqKHNn4kV9NcT2ZpsX8N90gliV?usp=sharing)
 * ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/1FyZYAOTedUvrukF1JYaXo7Jh3O5wlqdN?usp=sharing)
-* ### [Colab - Regressão Linear Multipla - dataset Boston House Price](https://drive.google.com/file/d/1L_quNbburvnTVhEWrhNhnMIEIylOkRMS/view?usp=sharing)
+* ### [Colab - Regressão Linear Multipla - dataset Boston House Price](https://colab.research.google.com/drive/1L_quNbburvnTVhEWrhNhnMIEIylOkRMS?usp=sharing)
 * ### [Colab - Regressão Polinomial - dataset Position_Salaries](https://colab.research.google.com/drive/125NMw54BEZ0GERIVTvzIfsmJEvSXwpa9?usp=sharing)
+
 
 
 ## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)]
