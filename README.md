@@ -23,12 +23,18 @@
 
 * ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1a24JRHwqKHNn4kV9NcT2ZpsX8N90gliV?usp=sharing)
 * ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/1FyZYAOTedUvrukF1JYaXo7Jh3O5wlqdN?usp=sharing)
+
 * ### [Colab - Regressão Linear Multipla - dataset Boston House Price](https://colab.research.google.com/drive/1L_quNbburvnTVhEWrhNhnMIEIylOkRMS?usp=sharing)
+* ### [Colab - Regressão Linear Multipla - dataset Medical Cost Personal](https://colab.research.google.com/drive/1tiXak9kp4urycrmeQUqA4mjXh4k7TyzV?usp=sharing)
+
 * ### [Colab - Regressão Polinomial - dataset Position_Salaries](https://colab.research.google.com/drive/125NMw54BEZ0GERIVTvzIfsmJEvSXwpa9?usp=sharing)
 
 
+## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
-## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)]
+* ### [Colab - SVR - dataset Boston House Price](https://colab.research.google.com/drive/1vzWrKBr3DprnrAWYEJEDm4ukW3bHBtDI?usp=sharing)
+* ### [Colab - SVR - dataset Medical Cost Personal](https://colab.research.google.com/drive/1okJFe6qS8RzdA5bwnF54NUaXj27mF26r?usp=sharing)
+
 
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)]
 
