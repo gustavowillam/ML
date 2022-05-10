@@ -36,7 +36,7 @@
 * ### [Colab - SVR - dataset Medical Cost Personal](https://colab.research.google.com/drive/1okJFe6qS8RzdA5bwnF54NUaXj27mF26r?usp=sharing)
 
 
-## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)]
+## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
 
 
 ## - Algoritmos para Classificação
