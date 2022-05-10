@@ -38,6 +38,12 @@
 
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
 
+* ### [Colab - DT - dataset Boston House Price](https://colab.research.google.com/drive/1FeP8NqBOQRm6lHb9O_DrYVtL17j8bIFe?usp=sharing)
+* ### [Colab - DT - dataset Medical Cost Personal](https://colab.research.google.com/drive/17HxcPOundk3LBYIgpv6BqD7Ey4FiIBJJ?usp=sharing)
+
+* ### [Colab - RF - dataset Boston House Price](https://colab.research.google.com/drive/1i9pbUOY7TYSQpn3EgZ9946V9V-3fJ7FZ?usp=sharing)
+* ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1XUcgl5JCJHyKUt7E291q_bAxQuaycNjd?usp=sharing)
+
 
 ## - Algoritmos para Classificação
 
