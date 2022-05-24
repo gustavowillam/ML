@@ -49,8 +49,9 @@
 
 ## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
 
-## - [Aula 07 - Regressão Logistica]()
+## - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
 
+* ### [Colab - RL - dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
 
 
 ## - [Aula 08 - K-Nearest Neighbors (K-NN)] 
