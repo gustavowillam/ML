@@ -47,7 +47,7 @@
 
 ## - Algoritmos para Classificação
 
-## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada]
+## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
 
 ## - [Aula 07 - Regressão Logistica]
 
@@ -55,7 +55,7 @@
 
 ## - [Aula 09 - Naive Bayes]
 
-## - [Aula 10 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)]
+## - [Aula 10 - SVM, DT, RF]
 
 ## - [Aula 11 - Classificação Não-Supervisionada]
 
