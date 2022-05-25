@@ -54,7 +54,7 @@
 * ### [Colab - RL - dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
 
 
-## - [Aula 08 - K-Nearest Neighbors (K-NN)] 
+## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
 
 ## - [Aula 09 - Naive Bayes]
 
