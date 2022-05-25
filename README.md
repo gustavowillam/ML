@@ -56,7 +56,7 @@
 
 ## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
 
-## - [Aula 09 - Naive Bayes]
+## - [Aula 09 - Naive Bayes](https://github.com/gustavowillam/ML/blob/main/slides/09-ML-Naive%20Bayes.pdf)
 
 ## - [Aula 10 - SVM, DT, RF]
 
