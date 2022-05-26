@@ -53,10 +53,13 @@
 
 * ### [Colab - RL - dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
 
-
 ## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
 
+* ### [Colab - KNN - dataset Framingham](https://colab.research.google.com/drive/1WYDu-ADVS8O1NOnBW7IODY3iKB20VorL?usp=sharing)
+
 ## - [Aula 09 - Naive Bayes](https://github.com/gustavowillam/ML/blob/main/slides/09-ML-Naive%20Bayes.pdf)
+
+* ### [Colab - NB - dataset Framingham](https://colab.research.google.com/drive/1V02vRQXJB0AUCMaNbBWYlXVDoLsrTSDp?usp=sharing)
 
 ## - [Aula 10 - SVM, DT, RF]
 
