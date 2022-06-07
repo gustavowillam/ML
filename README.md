@@ -61,7 +61,12 @@
 
 * ### [Colab - NB - dataset Framingham](https://colab.research.google.com/drive/1V02vRQXJB0AUCMaNbBWYlXVDoLsrTSDp?usp=sharing)
 
-## - [Aula 10 - SVM, DT, RF]
+## - [Aula 10 - SVM, DT, RF](https://github.com/gustavowillam/ML/blob/main/slides/10-ML-Support%20Vector%20Machine-SVC.pdf)
+
+* ### [Colab - SVC - dataset Framingham](https://colab.research.google.com/drive/1AlSzJ9nkhoQjMLtKwd_Gkg3LvRKrpj4S?usp=sharing)
+* ### [Colab - DT  - dataset Framingham](https://colab.research.google.com/drive/16_Q71e5JwHaIgeNgNcDg0Vf748sjURyv?usp=sharing)
+* ### [Colab - RF  - dataset Framingham](https://colab.research.google.com/drive/1MVmgp0Urm8eNoV5jtRQN7y2lemtMKsQ7?usp=sharing)
+
 
 ## - [Aula 11 - Classificação Não-Supervisionada]
 
