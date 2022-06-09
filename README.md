@@ -52,6 +52,9 @@
 ## - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
 
 * ### [Colab - RL - dataset Framingham](https://colab.research.google.com/drive/1EXxJVaBZAYGQMT0h1mXesY2FknyffXyl?usp=sharing)
+* ### [Colab - RL - dataset Telecom_Users](https://colab.research.google.com/drive/1y-2S_YqiUSso7NIIMgIaIxRL4WWhvbhz?usp=sharing)
+* ### [Colab - RL - dataset Flor de Iris](https://colab.research.google.com/drive/1T_dpwLEaVxx4_i-MZ0q5S41VzQdn870g?usp=sharing)
+
 
 ## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
 
@@ -64,8 +67,14 @@
 ## - [Aula 10 - SVM, DT, RF](https://github.com/gustavowillam/ML/blob/main/slides/10-ML-Support%20Vector%20Machine-SVC.pdf)
 
 * ### [Colab - SVC - dataset Framingham](https://colab.research.google.com/drive/1AlSzJ9nkhoQjMLtKwd_Gkg3LvRKrpj4S?usp=sharing)
+* ### [Colab - SVC - Telecom_Users](https://colab.research.google.com/drive/1nj9ZPcJKYIfMEWF58Cza-voGOEBicB78?usp=sharing)
+
+
 * ### [Colab - DT  - dataset Framingham](https://colab.research.google.com/drive/16_Q71e5JwHaIgeNgNcDg0Vf748sjURyv?usp=sharing)
+
+
 * ### [Colab - RF  - dataset Framingham](https://colab.research.google.com/drive/1MVmgp0Urm8eNoV5jtRQN7y2lemtMKsQ7?usp=sharing)
+* ### [Colab - RF  - Telecom_Users](https://colab.research.google.com/drive/1wCCEFhDyeFtlzbx_Pevdb2hAYrr8MRND?usp=sharing)
 
 
 ## - [Aula 11 - Classificação Não-Supervisionada]
