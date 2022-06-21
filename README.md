@@ -69,7 +69,7 @@
 
 ## - [Aula 11 - Classificação Não-Supervisionada](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
 
-* ### [Colab - KMeans  - dataset Countryclusters](https://colab.research.google.com/drive/1K0KkqfPTjxt-_4N940Jlnj9bYDxk8-wV?usp=sharing)
+* ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1K0KkqfPTjxt-_4N940Jlnj9bYDxk8-wV?usp=sharing)
 * ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1JDBbQGdf95Z0zQ1dodF9NLn3NU4Wyfnp?usp=sharing)
 
 
