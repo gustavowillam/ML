@@ -70,6 +70,7 @@
 
 * ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1K0KkqfPTjxt-_4N940Jlnj9bYDxk8-wV?usp=sharing)
 * ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1JDBbQGdf95Z0zQ1dodF9NLn3NU4Wyfnp?usp=sharing)
+* ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1Cf0tMG8TZqFsi5TvIts4m-MnNVO56auX?usp=sharing)
 
 
 ## - Tópicos Especiais em Machine Learning 
