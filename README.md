@@ -67,7 +67,10 @@
 * ### [Colab - RF  - Telecom_Users](https://colab.research.google.com/drive/1wCCEFhDyeFtlzbx_Pevdb2hAYrr8MRND?usp=sharing)
 
 
-## - [Aula 11 - Classificação Não-Supervisionada]
+## - [Aula 11 - Classificação Não-Supervisionada](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
+
+* ### [Colab - KMeans  - dataset Countryclusters](https://colab.research.google.com/drive/1K0KkqfPTjxt-_4N940Jlnj9bYDxk8-wV?usp=sharing)
+* ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1JDBbQGdf95Z0zQ1dodF9NLn3NU4Wyfnp?usp=sharing)
 
 
 ## - Tópicos Especiais em Machine Learning 
@@ -75,7 +78,7 @@
 
 ## - [Aula 12 - Redução de Dimensionalidade]
 
-## - [Aula 13 - Seleção de Variáveis]
+## - [Aula 13 - Avaliação de Modelos e Seleção de Features]
 
 ## - [Aula 14 - DataPipeline com Python]
 
