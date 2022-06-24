@@ -77,10 +77,14 @@
 ## - Tópicos Especiais em Machine Learning 
 
 
-## - [Aula 12 - Redução de Dimensionalidade]
+## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
+
+* ### [Colab - PCA LDA para Classificação - dataset Telecom Users](https://colab.research.google.com/drive/1IXRCbMVjmBJohyegTHNeOLg5GSkOCNZE?usp=sharing)
+* ### [Colab - PCA LDA para Regressão - dataset House Price](https://colab.research.google.com/drive/1KIDGyESxAextsF78rWsQD1spg1cTHGGE?usp=sharing)
+
 
 ## - [Aula 13 - Avaliação de Modelos e Seleção de Features]
 
-## - [Aula 14 - DataPipeline com Python]
+## - [Aula 14 - Pipeline com Python]
 
 ## - [Aula 15 - PyCaret com Python]
