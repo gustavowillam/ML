@@ -83,7 +83,7 @@
 * ### [Colab - PCA LDA para Regressão - dataset House Price](https://colab.research.google.com/drive/1KIDGyESxAextsF78rWsQD1spg1cTHGGE?usp=sharing)
 
 
-## - [Aula 13 - Avaliação de Modelos e Seleção de Features]()
+## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
 * ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/14kWw_1_zOJ-1abEwxhmlTB_lNXUFlrlV?usp=sharing)
 * ### [Colab - Avaliação de Modelos de ML - Regressão     - dataset House Price](https://colab.research.google.com/drive/1GiZ6PEFBdZ7UyPeEST2cxDgt8umnqFVX?usp=sharing)
 * ### [Colab - Seleção de Features - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
