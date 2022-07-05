@@ -90,5 +90,15 @@
 
 
 ## - [Aula 14 - Pipeline com Python]
+* ### [Colab - Pipeline -  dataset Telecom Users](https://colab.research.google.com/drive/1jgRS5Grc5ZphCwYcN3WImNw6L5mxoBW1?usp=sharing)
+
 
 ## - [Aula 15 - PyCaret com Python]
+* ### [Colab - PyCaret -  dataset Rent a House](https://colab.research.google.com/drive/1K03mLIEdQlDnMP2JUhyeJboVToieqUFk?usp=sharing)
+
+
+## - [Aula 16 - Deploy ML com Python]
+* ### [Colab - Deploy -  dataset Advertising](https://colab.research.google.com/drive/1peJOiqO2qieu19GgksP2f1qDlBeG8Kd_?usp=sharing)
+* ### [Colab - Deploy -  dataset Rent a House](https://colab.research.google.com/drive/1K03mLIEdQlDnMP2JUhyeJboVToieqUFk?usp=sharing)
+
+
