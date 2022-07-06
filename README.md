@@ -85,20 +85,20 @@
 
 ## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
 * ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/14kWw_1_zOJ-1abEwxhmlTB_lNXUFlrlV?usp=sharing)
-* ### [Colab - Avaliação de Modelos de ML - Regressão     - dataset House Price](https://colab.research.google.com/drive/1GiZ6PEFBdZ7UyPeEST2cxDgt8umnqFVX?usp=sharing)
-* ### [Colab - Seleção de Features - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
+* ### [Colab - Avaliação de Modelos de ML - Regressão - dataset House Price](https://colab.research.google.com/drive/1GiZ6PEFBdZ7UyPeEST2cxDgt8umnqFVX?usp=sharing)
+* ### [Colab - Seleção de Features - Classificação - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1eEdp2B9gv-19bjKxYXWqZBLlnuHByOeG?usp=sharing)
 
 
 ## - [Aula 14 - Pipeline com Python]
-* ### [Colab - Pipeline -  dataset Telecom Users](https://colab.research.google.com/drive/1jgRS5Grc5ZphCwYcN3WImNw6L5mxoBW1?usp=sharing)
+* ### [Colab - Pipeline - Regressão - dataset Telecom Users](https://colab.research.google.com/drive/1jgRS5Grc5ZphCwYcN3WImNw6L5mxoBW1?usp=sharing)
 
 
 ## - [Aula 15 - PyCaret com Python]
-* ### [Colab - PyCaret -  dataset Rent a House](https://colab.research.google.com/drive/1K03mLIEdQlDnMP2JUhyeJboVToieqUFk?usp=sharing)
+* ### [Colab - PyCaret - Regressão - dataset Rent a House](https://colab.research.google.com/drive/1K03mLIEdQlDnMP2JUhyeJboVToieqUFk?usp=sharing)
 
 
 ## - [Aula 16 - Deploy ML com Python]
-* ### [Colab - Deploy -  dataset Advertising](https://colab.research.google.com/drive/1peJOiqO2qieu19GgksP2f1qDlBeG8Kd_?usp=sharing)
-* ### [Colab - Deploy -  dataset Rent a House](https://colab.research.google.com/drive/1K03mLIEdQlDnMP2JUhyeJboVToieqUFk?usp=sharing)
+* ### [Colab - Deploy - Regressão - dataset Advertising](https://colab.research.google.com/drive/1peJOiqO2qieu19GgksP2f1qDlBeG8Kd_?usp=sharing)
+
 
 
