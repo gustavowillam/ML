@@ -98,7 +98,8 @@
 
 
 ## - [Aula 16 - Deploy ML com Python]
-* ### [Colab - Deploy - Regressão - dataset Advertising](https://colab.research.google.com/drive/1peJOiqO2qieu19GgksP2f1qDlBeG8Kd_?usp=sharing)
+* ### [Colab - Deploy - Regressão - dataset Advertising](https://colab.research.google.com/drive/1W1GbxieFRlOp3HwG-zCw1IxKU1m00yBO?usp=sharing)
+
 
 
 
