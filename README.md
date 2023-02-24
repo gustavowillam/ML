@@ -3,7 +3,11 @@
 ## - [Aula 01 - Introdução ao Aprendizado de Máquina](https://github.com/gustavowillam/ML/blob/main/slides/01-ML-Introducao%20ao%20Aprendizado%20de%20Maquina.pdf)
 
 ## - [Aula 02 - Análise Exploratória de Dados (EDA)](https://github.com/gustavowillam/ML/blob/main/slides/02-ML-Analise%20Exploratoria%20de%20Dados.pdf)
-     
+
+* ### [Colab - EDA - dataset Dados_Compra](https://colab.research.google.com/drive/1TDwqEw1rBFhJSqYwSxfH_Alv0_oqPsVg?usp=sharing)
+
+* ### [Colab - EDA - dataset Marketing Analysis](https://colab.research.google.com/drive/1xpmAQGvoix1oHsyNSh_ShIuUQzICQIbA?usp=sharing)
+
 ## - Algoritmos para Regressão
 
 ## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial](https://github.com/gustavowillam/ML/blob/main/slides/03-ML-Modelos%20de%20Regressao%20e%20Metricas%20para%20Avaliacao.pdf)
