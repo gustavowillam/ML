@@ -12,6 +12,10 @@
 
 ## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial](https://github.com/gustavowillam/ML/blob/main/slides/03-ML-Modelos%20de%20Regressao%20e%20Metricas%20para%20Avaliacao.pdf)
 
+* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1kc6B6RxkDaRg9x1_jCfxPontFJvWxM1D?usp=sharing)
+
+* ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/18__5xBIvWFY6hyh4T0lO7U0mSOgmGdRQ?usp=sharing)
+
 ## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
