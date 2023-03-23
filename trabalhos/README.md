@@ -17,7 +17,7 @@ Objetivos: Encontrar o melhor modelo que minimiza o RMSE e maximiza o R2
 
 a) Implemente uma solução utilizando a biblioteca statsmodels 
 
-b) Implemente uma solução utilizando a biblioteca Scikt-Learning 
+b) Implemente uma solução utilizando a biblioteca Scikit-Learning (Classe LinearRegreession)
 
 Ao final do treinamento realize os testes de predição para os dados: 
 
