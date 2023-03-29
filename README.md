@@ -26,6 +26,10 @@
 
 ## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
+* ### [Colab - SVR - dataset Boston House Price](https://colab.research.google.com/drive/1xWE13pgEVhB2pEf3Tvvo01oPKr4--b6z?usp=sharing)
+* ### [Colab - SVR - dataset Medical Cost Personal](https://colab.research.google.com/drive/1T5XNRIbnFKxf1X6BOo2gj4vcGglNXimb?usp=sharing)
+
+
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
 
 ## - Algoritmos para Classificação
