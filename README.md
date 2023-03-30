@@ -20,6 +20,8 @@
 * ### [Colab - Regressão Linear Multipla - dataset Medical Cost Personal](https://colab.research.google.com/drive/1ZMbVo2dvcJQfzCiOzufGoIhyx6vD-Avx?usp=sharing)
 
 * ### [Colab - Regressão Linear Multipla - dataset Rent a House](https://colab.research.google.com/drive/1Czf-xWLu1FQfCXFrBrkoR8xe6fFV1SHp?usp=sharing)
+* ### [Colab - Regressão Linear Multipla - dataset Advertising]()
+
 
 * ### [Colab - Regressão Polinomial - dataset Position_Salaries](https://colab.research.google.com/drive/1wNckyEQEdCfnFjBMgj5R68mdkOnDTidT?usp=sharing)
 
