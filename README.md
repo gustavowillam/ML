@@ -35,6 +35,16 @@
 
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
 
+* ### [Colab - DT - dataset Boston House Price](https://colab.research.google.com/drive/1J_9gKWsZgKIKWgVxhjpE7s4HZD7Hz7ZN?usp=sharing)
+* ### [Colab - DT - dataset Medical Cost Personal](https://colab.research.google.com/drive/1oVNwkjeI2Xz8R9I05Aj_9gZEESp1LEdc?usp=sharing)
+* ### [Colab - DT - dataset Rent a House]
+
+
+* ### [Colab - RF - dataset Boston House Price](https://colab.research.google.com/drive/1LLkeqdpnBS-6TMr-qzu5cyfORmDITQ19?usp=sharing)
+* ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1dFyOnD1G6ZMf_H4-JvcmV8cx1QY7j1RD?usp=sharing)
+* ### [Colab - RF - dataset Rent a House]
+
+
 ## - Algoritmos para Classificação
 
 ## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
