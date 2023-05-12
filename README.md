@@ -51,11 +51,28 @@
 
 ## - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
 
+* ### [Colab - RL - dataset Framingham](https://colab.research.google.com/drive/1uEB-h7XTBZS2Lwu-wWF21KJ_7oRDcjMr?usp=sharing)
+
+* ### [Colab - RL - dataset Telecom_Users](https://colab.research.google.com/drive/1vMYbGxaUCrSBe-h1PpkkSvENO5Zh0CW4?usp=sharing)
+
 ## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
+
+* ### [Colab - KNN - dataset Framingham](https://colab.research.google.com/drive/1HeRYnUwhG11yPBfvZM3UeZicQhfJDeBf?usp=sharing)
 
 ## - [Aula 09 - Naive Bayes](https://github.com/gustavowillam/ML/blob/main/slides/09-ML-Naive%20Bayes.pdf)
 
+* ### [Colab - NB - dataset Framingham](https://colab.research.google.com/drive/1CEU9eWFzPCyOdGcDgbxl8qPUe8CHIjG9?usp=sharing)
+
 ## - [Aula 10 - SVM, DT, RF](https://github.com/gustavowillam/ML/blob/main/slides/10-ML-Support%20Vector%20Machine-SVC.pdf)
+
+* ### [Colab - SVC - dataset Framingham](https://colab.research.google.com/drive/1f2s26Q2FIcCU_91FUYt9WEY-5JjETIzL?usp=sharing)
+* ### [Colab - SVC - Telecom_Users](https://colab.research.google.com/drive/1lG9Zn18Xpp_x4JtuFXK5BkuS8NKUJhtk?usp=sharing)
+
+* ### [Colab - DT  - dataset Framingham](https://colab.research.google.com/drive/1kB55jeI1X2q_bE0WmkzM9eB6SzXzGlIl?usp=sharing)
+
+* ### [Colab - RF  - dataset Framingham](https://colab.research.google.com/drive/128bs_utl15GT8TnINpf0Au-3j_nSWHHe?usp=sharing)
+* ### [Colab - RF  - Telecom_Users](https://colab.research.google.com/drive/1360CnTlaW9uFwTFV_2-7wVhfKCpJiQnj?usp=sharing)
+
 
 ## - Algoritmos para Classificação Não-Supervisionada
 
