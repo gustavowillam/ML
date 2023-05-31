@@ -13,7 +13,6 @@
 ## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial](https://github.com/gustavowillam/ML/blob/main/slides/03-ML-Modelos%20de%20Regressao%20e%20Metricas%20para%20Avaliacao.pdf)
 
 * ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1kc6B6RxkDaRg9x1_jCfxPontFJvWxM1D?usp=sharing)
-
 * ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/18__5xBIvWFY6hyh4T0lO7U0mSOgmGdRQ?usp=sharing)
 
 * ### [Colab - Regressão Linear Multipla - dataset Boston House Price](https://colab.research.google.com/drive/1WmJtlfk2mnWi43O5Ciedzd8r0pFg0DfT?usp=sharing)
@@ -78,6 +77,11 @@
 
 ## - [Aula 11 - K-Means](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
 
+* ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1hgwRdxNxrMZtmP7mNvNnZ4Kd1fpVs7Ud?usp=sharing)
+* ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1Es2ynAiHeamQZy_6RGd-sAmS1WTiNdsk?usp=sharing)
+* ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1lCBnBxmLeyzANSfuE3YN5e2avEFjZZHo?usp=sharing)
+* ### [Colab - KMeans  - dataset California Hoursing](https://colab.research.google.com/drive/1n8aY0AzXQLxYmuxInpsRFyiYLlF1wyTP?usp=sharing)
+
 ## - Tópicos Especiais em Machine Learning 
 
 ## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
@@ -88,4 +92,3 @@
 
 ## - [Aula 15 - PyCaret com Python]
 
-## - [Aula 16 - Deploy ML com Python]
