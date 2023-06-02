@@ -86,9 +86,19 @@
 
 ## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
 
+* ### [Colab - PCA LDA para Classificação - dataset Telecom Users](https://colab.research.google.com/drive/1h2AloX4ftpRoQ_aSagiuQnIAj64MqJp3?usp=sharing)
+* ### [Colab - PCA LDA para Regressão - dataset House Price](https://colab.research.google.com/drive/1gbQI2Y3wTAX1e8KrI2HAaK1dYSFvKBr_?usp=sharing)
+
 ## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
+
+* ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/18e6qcYb7MfB_goP2m-D-GbdQdVJkeIWE?usp=sharing)
+* ### [Colab - Avaliação de Modelos de ML - Regressão - dataset House Price](https://colab.research.google.com/drive/1aQDgM_yK_s271mfTtnO9mFSnmJNdRrYs?usp=sharing)
+* ### [Colab - Seleção de Features - Classificação - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1NorQmUqRDu-1D2jEzKoMCt0DVAaF1HZ_?usp=sharing)
 
 ## - [Aula 14 - Pipeline com Python]
 
+* ### [Colab - Pipeline - Regressão - dataset Telecom Users](https://colab.research.google.com/drive/1C52TcJC1_PSk2NoYa23OzPBy0skYFezi?usp=sharing)
+
 ## - [Aula 15 - PyCaret com Python]
 
+* ### [Colab - PyCaret - Regressão - dataset Rent a House](https://colab.research.google.com/drive/1ingbi4te7wglnrb1mkdOZcZCgmvnSq_A?usp=sharing)
