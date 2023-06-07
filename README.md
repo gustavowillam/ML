@@ -43,6 +43,9 @@
 * ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1dFyOnD1G6ZMf_H4-JvcmV8cx1QY7j1RD?usp=sharing)
 * ### [Colab - RF - dataset Rent a House]
 
+* ### [Colab - RF - dataset House Price - Kaggle](https://colab.research.google.com/drive/1XnFJ5S_40pfKRq3Qxe7z-yy9A0hoKIyo?usp=sharing)
+
+
 
 ## - Algoritmos para Classificação
 
