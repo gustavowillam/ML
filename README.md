@@ -1,4 +1,4 @@
-# Revisão bibliotecas NumPy e Pandas do Python 
+# Bibliotecas NumPy e Pandas do Python 
 
 
 ## [Aula 01 - Biblioteca NumPy](https://github.com/gustavowillam/AEDI/blob/main/slides/08-AEDI-Numpy.pdf)
