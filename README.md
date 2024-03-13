@@ -35,6 +35,8 @@
 
 * ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/13Td2zAVHZSl41QEtVpHgUP9UzTG4UxIY?usp=sharing)
 
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price](https://colab.research.google.com/drive/1p3ZepUGwFLw7h3F7B-6dvcSXFTvPTNme?usp=sharing)
+
 ## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
