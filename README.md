@@ -45,6 +45,8 @@
 
 * ### [Colab - SVR - dataset Rent House Price](https://colab.research.google.com/drive/1VhwYFG074BzTAJh_aMTUPeEvM6WVyZGE?usp=sharing)
 
+* ### [Colab - SVR/RLM - dataset Advertising](https://colab.research.google.com/drive/1oH64_Oc_eqE8BqI2xA63BhpYHbjMMb_2?usp=sharing)
+
 ## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
 
 ## - Algoritmos para Classificação
