@@ -57,6 +57,9 @@
 
 * ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1dFyOnD1G6ZMf_H4-JvcmV8cx1QY7j1RD?usp=sharing)
 
+* ### [Colab - RL-DT-RF - dataset BankChurners](https://colab.research.google.com/drive/1YAARNZrv6PX3zD447HS0r_yQCt0q2Wnr?usp=sharing)
+
+
 ## - Algoritmos para Classificação
 
 ## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
