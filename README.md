@@ -64,6 +64,8 @@
 
 ## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
 
+## - [Métricas para Avaliação - Quais as diferenças](https://vitorborbarodrigues.medium.com/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-acur%C3%A1cia-precis%C3%A3o-recall-quais-as-diferen%C3%A7as-c8f05e0a513c)
+
 ## - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
 
 ## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
