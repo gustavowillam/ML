@@ -43,7 +43,7 @@
 
 ## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
-* ### [Colab - SVR - dataset Rent House Price](https://colab.research.google.com/drive/1VhwYFG074BzTAJh_aMTUPeEvM6WVyZGE?usp=sharing)
+* ### [Colab - SVR - dataset Students Performance](https://colab.research.google.com/drive/1VhwYFG074BzTAJh_aMTUPeEvM6WVyZGE?usp=sharing)
 
 * ### [Colab - SVR/RLM - dataset Advertising](https://colab.research.google.com/drive/1oH64_Oc_eqE8BqI2xA63BhpYHbjMMb_2?usp=sharing)
 
