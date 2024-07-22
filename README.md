@@ -76,6 +76,8 @@
 
 * ### [Colab - dataset Framingham](https://colab.research.google.com/drive/1S1AZPBJwKwpNfjvY3kR8its2voPkCKU6?usp=sharing)
 
+* ### [Colab - dataset BreastCancerWisconsin](https://colab.research.google.com/drive/1grJXRiPSu79V2K2nVGSbzHDq2SsV-xWT?usp=sharing)
+
 ## - Algoritmos para Classificação Não-Supervisionada
 
 ## - [Aula 11 - K-Means](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
