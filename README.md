@@ -96,4 +96,4 @@
 
 ## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
 
-* ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/18e6qcYb7MfB_goP2m-D-GbdQdVJkeIWE?usp=sharing)
+* ### [Colab - Seleção de Features - Classificação - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1NorQmUqRDu-1D2jEzKoMCt0DVAaF1HZ_?usp=sharing)
