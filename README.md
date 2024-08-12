@@ -88,7 +88,7 @@
 
 * ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1lCBnBxmLeyzANSfuE3YN5e2avEFjZZHo?usp=sharing)
 
-## - Tópicos Especiais em Machine Learning 
+## - Engenharia de Dados 
 
 ## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
 
