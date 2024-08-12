@@ -86,4 +86,8 @@
 
 ## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
 
+* ### [Colab - PCA LDA para Classificação - dataset Telecom Users](https://colab.research.google.com/drive/1h2AloX4ftpRoQ_aSagiuQnIAj64MqJp3?usp=sharing)
+
 ## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
+
+* ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/18e6qcYb7MfB_goP2m-D-GbdQdVJkeIWE?usp=sharing)
