@@ -87,7 +87,3 @@
 ## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
 
 ## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
-
-## - [Aula 14 - Pipeline com Python]
-
-## - [Aula 15 - PyCaret com Python]
