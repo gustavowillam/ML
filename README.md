@@ -82,6 +82,12 @@
 
 ## - [Aula 11 - K-Means](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
 
+* ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1hgwRdxNxrMZtmP7mNvNnZ4Kd1fpVs7Ud?usp=sharing)
+
+* ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1Es2ynAiHeamQZy_6RGd-sAmS1WTiNdsk?usp=sharing)
+
+* ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1lCBnBxmLeyzANSfuE3YN5e2avEFjZZHo?usp=sharing)
+
 ## - Tópicos Especiais em Machine Learning 
 
 ## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
