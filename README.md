@@ -22,3 +22,20 @@
 * ### [Colab - EDA - dataset Dados_Compra](https://colab.research.google.com/drive/1TDwqEw1rBFhJSqYwSxfH_Alv0_oqPsVg?usp=sharing)
 
 * ### [Colab - EDA - dataset Marketing Analysis](https://colab.research.google.com/drive/1xpmAQGvoix1oHsyNSh_ShIuUQzICQIbA?usp=sharing)
+
+
+## - Algoritmos para Regressão
+
+## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial](https://github.com/gustavowillam/ML/blob/main/slides/03-ML-Modelos%20de%20Regressao%20e%20Metricas%20para%20Avaliacao.pdf)
+
+* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1kc6B6RxkDaRg9x1_jCfxPontFJvWxM1D?usp=sharing)
+
+* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price(Resumo)](https://colab.research.google.com/drive/1aI98nN22hx1Rlk-ySHyJApjzmcZ91pp2?usp=sharing)
+
+* ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/18__5xBIvWFY6hyh4T0lO7U0mSOgmGdRQ?usp=sharing)
+
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/13Td2zAVHZSl41QEtVpHgUP9UzTG4UxIY?usp=sharing)
+
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price](https://colab.research.google.com/drive/1p3ZepUGwFLw7h3F7B-6dvcSXFTvPTNme?usp=sharing)
+
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price - Tratando Outliers](https://colab.research.google.com/drive/1dKtqMsCPQ_Fmc9rRxwhoIx9KTDqJ6WR2?usp=sharing)
