@@ -41,3 +41,5 @@
 * ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price - Tratando Outliers](https://colab.research.google.com/drive/1dKtqMsCPQ_Fmc9rRxwhoIx9KTDqJ6WR2?usp=sharing)
 
 * ### [Colab - Regressão Polinomial - dataset Position_Salaries](https://colab.research.google.com/drive/1wNckyEQEdCfnFjBMgj5R68mdkOnDTidT?usp=sharing)
+
+* ### [Colab - Kaggle Competition - House Price](https://colab.research.google.com/drive/1d6mYbqmjv6j7IvR4tzzlGDF-Tdm2EzL4?usp=sharing)
