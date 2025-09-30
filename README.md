@@ -54,3 +54,15 @@
 * ### [Colab - SVR - dataset Medical Cost Personal](https://colab.research.google.com/drive/1T5XNRIbnFKxf1X6BOo2gj4vcGglNXimb?usp=sharing)
 
 
+## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
+
+* ### [Colab - DT/RF - dataset Advertising](https://colab.research.google.com/drive/1jNXzOmYy9knTx-kOlbULc5TCVXX8Bb3A?usp=sharing)
+
+* ### [Colab - DT - dataset Medical Cost Personal](https://colab.research.google.com/drive/1oVNwkjeI2Xz8R9I05Aj_9gZEESp1LEdc?usp=sharing)
+
+* ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1dFyOnD1G6ZMf_H4-JvcmV8cx1QY7j1RD?usp=sharing)
+
+* ### [Colab - RL-DT-RF - dataset BankChurners](https://colab.research.google.com/drive/1YAARNZrv6PX3zD447HS0r_yQCt0q2Wnr?usp=sharing)
+
+
+
