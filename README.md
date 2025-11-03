@@ -65,4 +65,22 @@
 * ### [Colab - RL-DT-RF - dataset BankChurners](https://colab.research.google.com/drive/1YAARNZrv6PX3zD447HS0r_yQCt0q2Wnr?usp=sharing)
 
 
+## - Algoritmos para Classificação
+
+## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
+
+## - [Métricas para Avaliação - Quais as diferenças](https://vitorborbarodrigues.medium.com/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-acur%C3%A1cia-precis%C3%A3o-recall-quais-as-diferen%C3%A7as-c8f05e0a513c)
+
+## - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
+
+## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
+
+## - [Aula 09 - Naive Bayes](https://github.com/gustavowillam/ML/blob/main/slides/09-ML-Naive%20Bayes.pdf)
+
+## - [Aula 10 - SVM, DT, RF](https://github.com/gustavowillam/ML/blob/main/slides/10-ML-Support%20Vector%20Machine-SVC.pdf)
+
+* ### [Colab - dataset Framingham](https://colab.research.google.com/drive/1S1AZPBJwKwpNfjvY3kR8its2voPkCKU6?usp=sharing)
+
+* ### [Colab - dataset BreastCancerWisconsin](https://colab.research.google.com/drive/1grJXRiPSu79V2K2nVGSbzHDq2SsV-xWT?usp=sharing)
+
 
