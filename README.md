@@ -82,5 +82,6 @@
 * ### [Colab - dataset Framingham](https://colab.research.google.com/drive/1S1AZPBJwKwpNfjvY3kR8its2voPkCKU6?usp=sharing)
 
 * ### [Colab - dataset BreastCancerWisconsin](https://colab.research.google.com/drive/1grJXRiPSu79V2K2nVGSbzHDq2SsV-xWT?usp=sharing)
-
-
+ 
+* ### [Colab - Kaggle Competition - SpaceShip Titanic](https://colab.research.google.com/drive/1T9iFj_P8vtVq_PTEJ68rOqF3vu87RR9B?usp=sharing)
+  
