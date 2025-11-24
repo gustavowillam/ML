@@ -84,4 +84,37 @@
 * ### [Colab - dataset BreastCancerWisconsin](https://colab.research.google.com/drive/1grJXRiPSu79V2K2nVGSbzHDq2SsV-xWT?usp=sharing)
  
 * ### [Colab - Kaggle Competition - SpaceShip Titanic](https://colab.research.google.com/drive/1T9iFj_P8vtVq_PTEJ68rOqF3vu87RR9B?usp=sharing)
-  
+
+## - Algoritmos para Classificação Não-Supervisionada
+
+## - [Aula 11 - K-Means](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
+
+* ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1hgwRdxNxrMZtmP7mNvNnZ4Kd1fpVs7Ud?usp=sharing)
+
+* ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1Es2ynAiHeamQZy_6RGd-sAmS1WTiNdsk?usp=sharing)
+
+* ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1lCBnBxmLeyzANSfuE3YN5e2avEFjZZHo?usp=sharing)
+
+## - Engenharia de Dados 
+
+## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
+
+* ### [Colab - PCA LDA para Classificação - dataset Telecom Users](https://colab.research.google.com/drive/1h2AloX4ftpRoQ_aSagiuQnIAj64MqJp3?usp=sharing)
+
+* ### [Colab - PCA LDA para Regressão - dataset House Price](https://colab.research.google.com/drive/1gbQI2Y3wTAX1e8KrI2HAaK1dYSFvKBr_?usp=sharing)
+
+## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
+
+* ### [Colab - Seleção de Features - Classificação - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1NorQmUqRDu-1D2jEzKoMCt0DVAaF1HZ_?usp=sharing)
+
+* ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/18e6qcYb7MfB_goP2m-D-GbdQdVJkeIWE?usp=sharing)
+
+* ### [Colab - Avaliação de Modelos de ML - Regressão - dataset House Price](https://colab.research.google.com/drive/1aQDgM_yK_s271mfTtnO9mFSnmJNdRrYs?usp=sharing)
+
+## - [Aula 14 - Pipeline com Python]
+
+* ### [Colab - Pipeline - Regressão - dataset Telecom Users](https://colab.research.google.com/drive/1C52TcJC1_PSk2NoYa23OzPBy0skYFezi?usp=sharing)
+
+## - [Aula 15 - PyCaret com Python]
+
+* ### [Colab - PyCaret - Regressão - dataset Rent a House](https://colab.research.google.com/drive/1ingbi4te7wglnrb1mkdOZcZCgmvnSq_A?usp=sharing)
